@@ -1,1 +1,9 @@
+.product-card {
+  transition: transform 0.7s, box-shadow 0.2s;
+}
 
+.product-card:hover {
+  transform: translate(4px, -10px);
+  box-shadow: 0 4px 8px rgba(5, 202, 162, 0.4);
+  cursor: pointer;
+}

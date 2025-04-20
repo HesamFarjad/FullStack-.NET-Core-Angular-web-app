@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Angular Speedster",
+    "Name": "Angular Yellow Board",
     "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
     "Price": 200,
     "PictureUrl": "images/products/sb-ang1.png",
@@ -18,7 +18,7 @@
     "QuantityInStock": 75
   },
   {
-    "Name": "Core Board Speed",
+    "Name": "Core Green Board",
     "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
     "Price": 180,
     "PictureUrl": "images/products/sb-core1.png",
@@ -36,7 +36,7 @@
     "QuantityInStock": 52
   },
   {
-    "Name": "React Board Super",
+    "Name": "React Board Red",
     "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
     "Price": 250,
     "PictureUrl": "images/products/sb-react1.png",
@@ -45,7 +45,7 @@
     "QuantityInStock": 97
   },
   {
-    "Name": "Entry Board",
+    "Name": "Entry Blue Board",
     "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
     "Price": 120,
     "PictureUrl": "images/products/sb-ts1.png",
