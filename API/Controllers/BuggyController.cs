@@ -1,7 +1,5 @@
 using API.DTOs;
-using Core.Entities;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.IdentityModel.Tokens;
 
 namespace API.Controllers;
 

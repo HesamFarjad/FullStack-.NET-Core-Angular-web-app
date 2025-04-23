@@ -11,3 +11,23 @@
 .mdc-notched-outline__notch {
   border-right-style: none !important;
 }
+
+// Quantity input box in productDetailsComponent
+
+.mat-mdc-form-field-infix {
+  padding-top: 4px !important;
+  padding-bottom: 4px !important;
+  min-height: 40px !important;
+}
+
+.mat-mdc-snack-bar-container.snack-error {
+  --mdc-snackbar-container-color: rgb(240, 78, 78);
+  --mdc-snack-bar-button-color: #ffffff;
+  --mdc-snackbar-supporting-text-color: #ffffff;
+}
+
+.mat-mdc-snack-bar-container.snack-success {
+  --mdc-snackbar-container-color: rgb(33, 164, 33);
+  --mdc-snack-bar-button-color: #ffffff;
+  --mdc-snackbar-supporting-text-color: #ffffff;
+}
