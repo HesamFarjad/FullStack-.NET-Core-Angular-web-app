@@ -1,5 +1,6 @@
 {
   "bracketSameLine": true,
   "htmlWhitespaceSensitivity": "ignore",
-  "printWidth": 90
+  "printWidth": 90,
+  "arrowParens": "always"
 }
