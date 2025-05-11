@@ -9,7 +9,6 @@ import { environment } from '../../../environments/environment';
   providedIn: 'root',
 })
 export class ShopService {
-  // baseUrl = 'http://localhost:5000/api/';
   baseUrl = environment.apiUrl;
   private http = inject(HttpClient);
   types: string[] = [];
